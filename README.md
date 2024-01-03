@@ -9,4 +9,5 @@ In this repository, you will end almost every website which is useful if you are
 
 
 # Basics to Advance any Language 
-1) Tutorialspoint [https://www.tutorialspoint.com/] -- You can learn anything from this site and everything is in proper format
+1) Tutorialspoint [https://www.tutorialspoint.com/] -- You can learn anything from this site and everything is in a proper format
+2) Javapoint - [https://www.javatpoint.com/] -- You can learn anything from this site and everything is in a proper format
